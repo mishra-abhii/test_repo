@@ -1,1 +1,2 @@
 sdssghgjrgitgnkjfnggjtrfmsfre
+modifying form github to use pull command on ubuntu terminal
